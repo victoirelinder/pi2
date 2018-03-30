@@ -1,0 +1,10 @@
+[
+  {
+    "sender": "sender",
+    "query": "{\"sender\":\"***\"}"
+  },
+  {
+    "sender": "subject",
+    "query": "{\"subject\": \"***\",\"date\" : { \"$lte\": 100}}"
+  }
+]
